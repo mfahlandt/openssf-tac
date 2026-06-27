@@ -69,6 +69,7 @@ The following Technical Initiatives have been approved by the TAC. You may learn
 | ---------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- |---------- |
 | Best Practices Badge   | [GitHub](https://github.com/coreinfrastructure/best-practices-badge) | https://www.bestpractices.dev/ | Best Practices WG   | TBD        |
 | Bomctl   | [GitHub](https://github.com/bomctl/bomctl) |  | Security Tooling WG   | [Sandbox](process/project-lifecycle-documents/bomctl_sandbox_stage.md)        |
+| BOMHort                 | [GitHub](https://github.com/seebom-labs/BOMHort) | https://docs.bomhort.dev/ | WG Supply Chain Integrity | [Sandbox](process/project-lifecycle-documents/BOMHort_sandbox_stage.md) |
 | Criticality Score      | [GitHub](https://github.com/ossf/criticality_score)        |  | Vulnerability Disclosures WG   | TBD        |
 | darnit                 | [GitHub](https://github.com/kusari-oss/darnit)             |  | Supply Chain Integrity WG | [Sandbox](process/project-lifecycle-documents/darnit_sandbox_stage.md) |
 | Fuzz Introspector      | [GitHub](https://github.com/ossf/fuzz-introspector)        |  | Security Tooling WG            | TBD        |
